@@ -1,0 +1,1255 @@
+{
+  "document": "Eateries food app ui kit",
+  "light": [
+    {
+      "id": "1:156",
+      "name": "01-Splash Screen 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": -603,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "1:23",
+      "name": "02-Splash Screen  2",
+      "type": "FRAME",
+      "bounds": {
+        "x": -188,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "1:817",
+      "name": "03-Splash Screen  3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 227,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "1:2116",
+      "name": "04-Sign in 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 921,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9
+    },
+    {
+      "id": "1:2152",
+      "name": "05-Sign in 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1336,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9
+    },
+    {
+      "id": "1:2290",
+      "name": "06-Forgot password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1751,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "1:2429",
+      "name": "07-Reset email",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2166,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "1:2270",
+      "name": "08-Sign in 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2581,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "1:2551",
+      "name": "09-Sign up  1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3275,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 10
+    },
+    {
+      "id": "1:2588",
+      "name": "10-Sign up  2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3690,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 10
+    },
+    {
+      "id": "1:2817",
+      "name": "11-Login by Phone number",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4391,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "1:2834",
+      "name": "12-Confirm phone number",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4806,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "1:3076",
+      "name": "13-Enter adress",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5500,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "1:3093",
+      "name": "14-Type locations",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5915,
+        "y": -407,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "1:3517",
+      "name": "15-home page 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": -603,
+        "y": 818,
+        "width": 375,
+        "height": 2058
+      },
+      "parentId": "0:1",
+      "childCount": 9
+    },
+    {
+      "id": "1:3619",
+      "name": "16-home page 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": -188,
+        "y": 818,
+        "width": 375,
+        "height": 1359
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "1:3680",
+      "name": "17-home page 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 227,
+        "y": 818,
+        "width": 375,
+        "height": 1670
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "1:3726",
+      "name": "18-home page 4",
+      "type": "FRAME",
+      "bounds": {
+        "x": 642,
+        "y": 818,
+        "width": 375,
+        "height": 1279
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "1:5489",
+      "name": "19-Featue partner 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1316,
+        "y": 818,
+        "width": 375,
+        "height": 910
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "1:5514",
+      "name": "20-Featue partner 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1731,
+        "y": 818,
+        "width": 375,
+        "height": 1014
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "5:3743",
+      "name": "21-Single resturent 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2405,
+        "y": 818,
+        "width": 375,
+        "height": 1718
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "5:3807",
+      "name": "22-Single resturent 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2820,
+        "y": 818,
+        "width": 375,
+        "height": 1512
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "3:2655",
+      "name": "23-add to order",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3494,
+        "y": 818,
+        "width": 375,
+        "height": 1563
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "3:2778",
+      "name": "24-your order",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3909,
+        "y": 818,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "3:2724",
+      "name": "25-add payment method",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4324,
+        "y": 818,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "3:2995",
+      "name": "26-Filters/food type 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4998,
+        "y": 799,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "3:3046",
+      "name": "27-Filters/food type 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5413,
+        "y": 799,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "3:3117",
+      "name": "28-Filters/food type 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5828,
+        "y": 799,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "3:3178",
+      "name": "29-Filters/food type 4",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6243,
+        "y": 799,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "3:3478",
+      "name": "30-Search Restaurants",
+      "type": "FRAME",
+      "bounds": {
+        "x": -597,
+        "y": 3471,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "3:3531",
+      "name": "31-Search food",
+      "type": "FRAME",
+      "bounds": {
+        "x": -182,
+        "y": 3471,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "3:3656",
+      "name": "32-Searching food",
+      "type": "FRAME",
+      "bounds": {
+        "x": 233,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "3:3605",
+      "name": "33-Search results 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 648,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "3:3628",
+      "name": "34-Search results 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1063,
+        "y": 3471,
+        "width": 375,
+        "height": 900
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "5:4202",
+      "name": "35-Your orders",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1749,
+        "y": 3471,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "5:4243",
+      "name": "36-Your orders",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2164,
+        "y": 3471,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "5:4289",
+      "name": "37-Order msg",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2579,
+        "y": 3471,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "7:4161",
+      "name": "38-Account settings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3266,
+        "y": 3472,
+        "width": 375,
+        "height": 1274
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "7:4206",
+      "name": "39-Profile settings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3681,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "7:4229",
+      "name": "40-Change password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4096,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "7:4514",
+      "name": "41-Payment method",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4511,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "7:4536",
+      "name": "42-Card list",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4926,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "7:4572",
+      "name": "43-Locations",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5341,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "7:4601",
+      "name": "44-Add social accounts",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5756,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "7:4744",
+      "name": "45-Refer to friends",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6171,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "7:4810",
+      "name": "46-Share link/Popup",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6586,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9
+    },
+    {
+      "id": "7:4910",
+      "name": "47-FAQS",
+      "type": "FRAME",
+      "bounds": {
+        "x": 7001,
+        "y": 3472,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "0:1",
+      "childCount": 9
+    },
+    {
+      "id": "7:5035",
+      "name": "48- Browse foods",
+      "type": "FRAME",
+      "bounds": {
+        "x": -603,
+        "y": 4878,
+        "width": 375,
+        "height": 910
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    }
+  ],
+  "dark": [
+    {
+      "id": "7:5202",
+      "name": "01-Splash Screen 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1291,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:5192",
+      "name": "02-Splash Screen  2",
+      "type": "FRAME",
+      "bounds": {
+        "x": -876,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:5216",
+      "name": "03-Splash Screen  3",
+      "type": "FRAME",
+      "bounds": {
+        "x": -461,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:7236",
+      "name": "04-Sign in 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 214,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 9
+    },
+    {
+      "id": "7:7254",
+      "name": "05-Sign in 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 629,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 9
+    },
+    {
+      "id": "7:7281",
+      "name": "06-Forgot password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1044,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:7290",
+      "name": "07-Reset email",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1459,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 7
+    },
+    {
+      "id": "7:7270",
+      "name": "08-Sign in 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1874,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 8
+    },
+    {
+      "id": "7:11702",
+      "name": "09-Sign up  1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2549,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 10
+    },
+    {
+      "id": "7:11719",
+      "name": "10-Sign up  2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2964,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 10
+    },
+    {
+      "id": "7:7626",
+      "name": "11-Login by Phone number",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3646,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:7635",
+      "name": "12-Confirm phone number",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4061,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 7
+    },
+    {
+      "id": "7:8058",
+      "name": "13-Enter adress",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4736,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:8064",
+      "name": "14-Type locations",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5151,
+        "y": -449,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:8961",
+      "name": "15-home page 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1291,
+        "y": 782,
+        "width": 375,
+        "height": 2058
+      },
+      "parentId": "7:5191",
+      "childCount": 9
+    },
+    {
+      "id": "7:8991",
+      "name": "16-home page 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": -876,
+        "y": 782,
+        "width": 375,
+        "height": 1359
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:9017",
+      "name": "17-home page 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": -461,
+        "y": 782,
+        "width": 375,
+        "height": 1670
+      },
+      "parentId": "7:5191",
+      "childCount": 7
+    },
+    {
+      "id": "7:9049",
+      "name": "18-home page 4",
+      "type": "FRAME",
+      "bounds": {
+        "x": -46,
+        "y": 782,
+        "width": 375,
+        "height": 1279
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:10402",
+      "name": "19-Featue partner 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 629,
+        "y": 782,
+        "width": 375,
+        "height": 910
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:10418",
+      "name": "20-Featue partner 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1044,
+        "y": 782,
+        "width": 375,
+        "height": 1014
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:11000",
+      "name": "21-Single resturent 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1719,
+        "y": 782,
+        "width": 375,
+        "height": 1718
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:11037",
+      "name": "22-Single resturent 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2134,
+        "y": 782,
+        "width": 375,
+        "height": 1512
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:11418",
+      "name": "23-add to order",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2809,
+        "y": 782,
+        "width": 375,
+        "height": 1563
+      },
+      "parentId": "7:5191",
+      "childCount": 7
+    },
+    {
+      "id": "7:11431",
+      "name": "24-your order",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3224,
+        "y": 782,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:11440",
+      "name": "25-add payment method",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3639,
+        "y": 782,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:12303",
+      "name": "26-Filters/food type 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4314,
+        "y": 763,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:12346",
+      "name": "27-Filters/food type 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4729,
+        "y": 763,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:12385",
+      "name": "28-Filters/food type 3",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5144,
+        "y": 763,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:12422",
+      "name": "29-Filters/food type 4",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5559,
+        "y": 763,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:12764",
+      "name": "30-Search Restaurants",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1291,
+        "y": 3259,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:12784",
+      "name": "31-Search food",
+      "type": "FRAME",
+      "bounds": {
+        "x": -876,
+        "y": 3259,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:12835",
+      "name": "32-Searching food",
+      "type": "FRAME",
+      "bounds": {
+        "x": -461,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:12840",
+      "name": "33-Search results 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": -46,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:12851",
+      "name": "34-Search results 2",
+      "type": "FRAME",
+      "bounds": {
+        "x": 369,
+        "y": 3259,
+        "width": 375,
+        "height": 900
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:13918",
+      "name": "35-Your orders",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1044,
+        "y": 3259,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:13935",
+      "name": "36-Your orders",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1459,
+        "y": 3259,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:13944",
+      "name": "37-Order msg",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1874,
+        "y": 3259,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 8
+    },
+    {
+      "id": "7:14193",
+      "name": "38-Account settings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2549,
+        "y": 3260,
+        "width": 375,
+        "height": 1274
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:14237",
+      "name": "39-Profile settings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2964,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:14257",
+      "name": "40-Change password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3379,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:14277",
+      "name": "41-Payment method",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3794,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 5
+    },
+    {
+      "id": "7:14299",
+      "name": "42-Card list",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4209,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 6
+    },
+    {
+      "id": "7:14335",
+      "name": "43-Locations",
+      "type": "FRAME",
+      "bounds": {
+        "x": 4624,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    },
+    {
+      "id": "7:14363",
+      "name": "44-Add social accounts",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5039,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 8
+    },
+    {
+      "id": "7:14390",
+      "name": "45-Refer to friends",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5454,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 7
+    },
+    {
+      "id": "7:14447",
+      "name": "46-Share link/Popup",
+      "type": "FRAME",
+      "bounds": {
+        "x": 5869,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 9
+    },
+    {
+      "id": "7:14531",
+      "name": "47-FAQS",
+      "type": "FRAME",
+      "bounds": {
+        "x": 6284,
+        "y": 3260,
+        "width": 375,
+        "height": 812
+      },
+      "parentId": "7:5191",
+      "childCount": 9
+    },
+    {
+      "id": "7:15040",
+      "name": "48- Browse foods",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1291,
+        "y": 4490,
+        "width": 375,
+        "height": 910
+      },
+      "parentId": "7:5191",
+      "childCount": 4
+    }
+  ]
+}

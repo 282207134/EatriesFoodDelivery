@@ -1,0 +1,23 @@
+{
+  "source": "Pixso MCP export_node_image",
+  "format": "Original PNG converted to WebP; avatar resized to 160x160",
+  "nodes": {
+    "onboarding1.webp": "1:162",
+    "onboarding2.webp": "1:25",
+    "onboarding3.webp": "1:819",
+    "coffee.webp": "1:3553",
+    "noodles.webp": "I1:3554;1:3553",
+    "restaurant.webp": "5:3748",
+    "cake.webp": "I5:3773;5:3702",
+    "burger.webp": "I1:3597;1:3381",
+    "burger2.webp": "I1:3598;1:3381",
+    "gift.webp": "7:4758",
+    "mail.webp": "1:2440",
+    "avatar.webp": "1:3521",
+    "eggs.webp": "I5:3774;5:3702",
+    "burger_food.webp": "I3:3037;1:3490",
+    "pizza.webp": "I3:3038;1:3490",
+    "soup.webp": "I3:3039;1:3490",
+    "zinger.webp": "I5:3794;5:3711"
+  }
+}

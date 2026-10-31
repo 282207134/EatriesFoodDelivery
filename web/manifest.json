@@ -1,0 +1,19 @@
+{
+  "name": "Eateries",
+  "short_name": "Eateries",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FD6920",
+  "description": "Explore restaurants and order food in this local Flutter demo.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "eateries.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
